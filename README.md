@@ -40,7 +40,6 @@ I'm always open to collaborating on interesting projects or just chatting about 
 
     LinkedIn: [Nathan Yianni](https://www.linkedin.com/in/nathan-yianni/)
     Twitter: [NathanYianni](https://twitter.com/NathanYianni)
-    Email: [nathanyianni@gmail.com]
 
 🚀 My Goals
 
