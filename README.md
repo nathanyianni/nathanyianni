@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm Nathan, an aspiring data analyst passionate ab
 📊 Data
 
 I'm currently learning Power BI, Google Analytics, Python for Analytics as well as exploring Tableau.
-    
+
+🌐 Web
 
 I love building responsive and interactive websites. My projects range from simple static pages to complex web applications. I'm skilled in:
 
