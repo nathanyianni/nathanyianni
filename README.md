@@ -2,7 +2,7 @@ Nathan Yianni
 
 👋 Hi there!
 
-Welcome to my GitHub profile! I'm Nathan, an aspiring developer passionate about web development, game design, photography, and all things computers. Here, you'll find a range of projects that reflect my diverse interests and skills.
+Welcome to my GitHub profile! I'm Nathan, an aspiring data analyst passionate about all things data, web development, game design, photography & computing. Here, you'll find a range of projects that reflect my diverse interests and skills.
 📊 Data Analytics 🌐 Web Development
 
 I'm currently learning Power BI, Google Analytics, Python for Analytics as well as exploring Tableau.
